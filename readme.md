@@ -6,8 +6,8 @@
 - Git
 
 **Pasos**:
-1. Clonar repositorio: git clone <url>
-2. cd prueba-carga-login
+1. Clonar repositorio: git clone <https://github.com/albasoto11/performance-jmeter.git>
+2. cd performance_jmeter
 
 
 **Observaciones**:
